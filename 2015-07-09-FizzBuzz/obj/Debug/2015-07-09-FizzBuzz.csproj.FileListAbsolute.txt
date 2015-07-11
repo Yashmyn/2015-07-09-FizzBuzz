@@ -1,0 +1,6 @@
+c:\users\grand\documents\visual studio 2013\Projects\2015-07-09-FizzBuzz\2015-07-09-FizzBuzz\bin\Debug\2015-07-09-FizzBuzz.exe.config
+c:\users\grand\documents\visual studio 2013\Projects\2015-07-09-FizzBuzz\2015-07-09-FizzBuzz\bin\Debug\2015-07-09-FizzBuzz.exe
+c:\users\grand\documents\visual studio 2013\Projects\2015-07-09-FizzBuzz\2015-07-09-FizzBuzz\bin\Debug\2015-07-09-FizzBuzz.pdb
+c:\users\grand\documents\visual studio 2013\Projects\2015-07-09-FizzBuzz\2015-07-09-FizzBuzz\obj\Debug\2015-07-09-FizzBuzz.csprojResolveAssemblyReference.cache
+c:\users\grand\documents\visual studio 2013\Projects\2015-07-09-FizzBuzz\2015-07-09-FizzBuzz\obj\Debug\2015-07-09-FizzBuzz.exe
+c:\users\grand\documents\visual studio 2013\Projects\2015-07-09-FizzBuzz\2015-07-09-FizzBuzz\obj\Debug\2015-07-09-FizzBuzz.pdb
